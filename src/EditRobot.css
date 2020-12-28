@@ -1,0 +1,24 @@
+.editRobot {
+    max-width: 300px;
+    margin: 3rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aquamarine;
+    border-radius: 1rem;
+    box-shadow:  2px 2px black,  5px 8px gray,  10px 15px gainsboro;
+    padding: 0 1.5rem  1.5rem 1.5rem;
+}
+
+.editRobot img {
+    max-width: 200px;
+}
+
+.editRobot button {
+    margin: 1.5rem;
+    cursor: pointer;
+}
+
+.editRobot input {
+    width: 80%;
+}

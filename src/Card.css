@@ -1,0 +1,12 @@
+.card {
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin: 0.5em;
+    width: 30%;
+    max-width: 300px;
+    background-color: aquamarine;
+}
+
+.card img {
+    max-width: 80%
+}
